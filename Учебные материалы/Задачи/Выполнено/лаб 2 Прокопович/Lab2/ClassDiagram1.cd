@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab2.Programm">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Programm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Help">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAABAAACAAAAAAAACBAAACAAAAAAAAAAEAAQAAAAA=</HashCode>
+      <FileName>Help.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.MainMenu">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <Members>
+      <Field Name="Back" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="Menu" Hidden="true" />
+      <Field Name="SpravB" Hidden="true" />
+      <Field Name="StartB" Hidden="true" />
+      <Field Name="StopB" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QSABAAAAACAAAAAAIACAAAAGAAAIACAAAAAAAAqAAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Programma">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="AcceptB" Hidden="true" />
+      <Field Name="Back" Hidden="true" />
+      <Field Name="CB1" Hidden="true" />
+      <Field Name="CB10" Hidden="true" />
+      <Field Name="CB11" Hidden="true" />
+      <Field Name="CB2" Hidden="true" />
+      <Field Name="CB3" Hidden="true" />
+      <Field Name="CB4" Hidden="true" />
+      <Field Name="CB5" Hidden="true" />
+      <Field Name="CB6" Hidden="true" />
+      <Field Name="CB7" Hidden="true" />
+      <Field Name="CB8" Hidden="true" />
+      <Field Name="CB9" Hidden="true" />
+      <Field Name="CBHouse" Hidden="true" />
+      <Field Name="ClearB" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="ExitB" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="Menu" Hidden="true" />
+      <Field Name="MenuModels" Hidden="true" />
+      <Field Name="ModelsB" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Lab2.Programma.Shape">
+        <TypeIdentifier>
+          <NewMemberFileName>Programma.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="Lab2.Programma.ShapeType">
+        <TypeIdentifier>
+          <NewMemberFileName>Programma.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAQAAKAACbAAhIAABGHAABCAwIIYAgAMAAAAABIhAE=</HashCode>
+      <FileName>Programma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Properties.Resources">
+    <Position X="9" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab2.Properties.Settings">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

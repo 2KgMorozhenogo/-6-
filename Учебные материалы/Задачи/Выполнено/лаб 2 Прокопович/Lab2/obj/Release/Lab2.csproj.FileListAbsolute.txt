@@ -1,0 +1,36 @@
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\bin\Release\Lab2.exe.config
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\bin\Release\Lab2.exe
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\bin\Release\Lab2.pdb
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.csproj.AssemblyReference.cache
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.Help.resources
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.MainMenu.resources
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.Programma.resources
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.Properties.Resources.resources
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.csproj.GenerateResource.cache
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.exe
+D:\Ucheba\20240228Lab2АвтоношкинСмецкая\Lab2\obj\Release\Lab2.pdb
+D:\!Ucheba\Lab2~ Dler\Lab2\bin\Release\Lab2.exe.config
+D:\!Ucheba\Lab2~ Dler\Lab2\bin\Release\Lab2.exe
+D:\!Ucheba\Lab2~ Dler\Lab2\bin\Release\Lab2.pdb
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.csproj.AssemblyReference.cache
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.Help.resources
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.MainMenu.resources
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.Programma.resources
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.Properties.Resources.resources
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.csproj.GenerateResource.cache
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.exe
+D:\!Ucheba\Lab2~ Dler\Lab2\obj\Release\Lab2.pdb
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\bin\Release\Lab2.exe.config
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\bin\Release\Lab2.exe
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\bin\Release\Lab2.pdb
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.csproj.AssemblyReference.cache
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.Help.resources
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.MainMenu.resources
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.Programma.resources
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.Properties.Resources.resources
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.csproj.GenerateResource.cache
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.exe
+C:\Users\dimon\OneDrive\Рабочий стол\Lab2\obj\Release\Lab2.pdb
